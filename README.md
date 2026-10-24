@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # Ramier Business Solutions — Portfolio Website
 
 Responsive static website based on the supplied Canva PDF, expanded with services informed by professional experience.
